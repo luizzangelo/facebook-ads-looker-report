@@ -1,7 +1,4 @@
 # Interactive Facebook Ads Report with Looker Studio
-
-![LA Mídias Logo](./images/logo-la-midias.png)
-
 ---
 
 ## 📖 Context & Objective
@@ -31,8 +28,6 @@ This README tells the data story and showcases my skills in designing, configuri
 | **CPM**                      | R\$ 3.93  | Cost per thousand impressions                               |
 | **Cost per Follower**        | R\$ 0.33  | Cost to acquire a new follower                              |
 | **Net Followers (6 months)** | +2,097    | Validates conversion funnel                                 |
-
-![Overview of Metrics](./images/overview-metrics.png)
 
 ---
 
