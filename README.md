@@ -41,9 +41,9 @@ We built a custom funnel in Looker Studio to track each stage:
 4. **Drive Traffic**: Link Clicks (34,085)
 5. **Acquire**: Messages Sent (845)
 
-```markdown
-![Engagement Funnel](./images/engagement-funnel.png)
-```
+
+![Engagement Funnel](https://github.com/luizzangelo/facebook-ads-looker-report/blob/main/engagement-funnel.png?raw=true)
+
 
 > **Insight:** Drop‑off is minimal between “Convert” and “Engage,” but there’s room to improve conversion from “Drive Traffic” to “Acquire.” Testing CTA and creative variations at the final stage could boost results.
 
@@ -62,9 +62,9 @@ We compared spend vs. clicks by age group to optimize budget distribution:
 | 55–64     | R\$ 162.88   | 1,484  | R\$ 0.11 | 4.2%              |
 | 65+       | R\$ 68.09    | 599    | R\$ 0.11 | 1.7%              |
 
-```markdown
-![Spend vs. Clicks by Age](./images/spend-clicks-age.png)
-```
+
+> ![Spend vs. Clicks by Age](https://github.com/luizzangelo/facebook-ads-looker-report/blob/main/spend-clicks-age.png?raw=true)
+
 
 > **Recommendation:** The **25–34** segment drives the highest volume. Consider shifting 10% of the budget from the **35–44** and **45–54** cohorts (where CPC remains competitive) to **25–34** to maximize click volume.
 
@@ -74,9 +74,8 @@ We compared spend vs. clicks by age group to optimize budget distribution:
 
 We monitor daily Instagram follower increases to assess ad appeal:
 
-```markdown
-![Daily Follower Growth](./images/daily-followers.png)
-```
+
+> ![Daily Follower Growth](https://github.com/luizzangelo/facebook-ads-looker-report/blob/main/daily-followers.png?raw=true)
 
 * From June 10–18: average of **160 followers/day**, well above the target of 80.
 * June 22: spike to **520 new followers**, indicating a top-performing creative.
